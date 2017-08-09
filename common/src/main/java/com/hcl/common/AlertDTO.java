@@ -8,6 +8,11 @@ public class AlertDTO {
 
 	private String alertDesc;
 
+	
+	
+	
+	
+	
 	private String suggestion;
 
 	private String insertDate;
