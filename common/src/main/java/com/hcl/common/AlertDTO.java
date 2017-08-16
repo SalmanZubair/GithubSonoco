@@ -16,6 +16,8 @@ public class AlertDTO {
 	
 	private int severity1;
 	
+	private int severity2;
+	
 	public String getAlertDesc() {
 		return alertDesc;
 	}
