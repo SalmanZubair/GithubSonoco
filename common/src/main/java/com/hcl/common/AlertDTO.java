@@ -7,17 +7,14 @@ package com.hcl.common;
 public class AlertDTO {
 
 	private String alertDesc;
-
-	
-	
-	
-	
 	
 	private String suggestion;
 
 	private String insertDate;
 
 	private int severity;
+	
+	private int severity1;
 	
 	public String getAlertDesc() {
 		return alertDesc;
